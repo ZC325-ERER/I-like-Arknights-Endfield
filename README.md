@@ -5,8 +5,8 @@
 | 序号 | 任务 | 状态 | 实现说明 |
 |:--:|---|---|---|
 | 1 | LED 500ms 闪烁（HAL_Delay） | √ | `main.c` 主循环 |
-| 2 | LED 500ms 闪烁（不用 HAL_Delay） | × | TIM2 更新中断计数 |
-| 3 | 按键 EXTI 控制 LED + 20ms 消抖 | × | `HAL_GPIO_EXTI_Callback` 内计数消抖 |
+| 2 | LED 500ms 闪烁（不用 HAL_Delay） | × | |
+| 3 | 按键 EXTI 控制 LED + 20ms 消抖 | × |  |
 | 4 | 提交 GitHub 仓库 | √ | 本仓库 |
 | 5 | 选做：短按/长按 | × | 未做 |
 | 6 | 选做：双击 | × | 未做 |
