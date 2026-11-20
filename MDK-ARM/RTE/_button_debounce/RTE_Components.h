@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'clockconfig' 
- * Target:  'clockconfig' 
+ * Project: 'button_debounce' 
+ * Target:  'button_debounce' 
  */
 
 #ifndef RTE_COMPONENTS_H

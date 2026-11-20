@@ -1,5 +1,5 @@
 ﻿# ===== Keil MDK 编译产物 =====
-MDK-ARM/clockconfig/
+MDK-ARM/button_debounce/
 MDK-ARM/DebugConfig/
 *.uvguix.*
 *.o
