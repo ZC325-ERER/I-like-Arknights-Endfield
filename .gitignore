@@ -1,0 +1,30 @@
+﻿# ===== Keil MDK 编译产物 =====
+MDK-ARM/clockconfig/
+Objects/
+Listings/
+DebugConfig/
+RTE/_*/
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.dep
+*.lnp
+*.sct
+*.i
+*.__i
+*.htm
+*.bak
+*.uvguix.*
+# ===== CubeMX =====
+.mxproject
+# ===== IDE =====
+.vscode/
+.idea/
+*.log
+
