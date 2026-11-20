@@ -1,9 +1,7 @@
 ﻿# ===== Keil MDK 编译产物 =====
 MDK-ARM/clockconfig/
-Objects/
-Listings/
-DebugConfig/
-RTE/_*/
+MDK-ARM/DebugConfig/
+*.uvguix.*
 *.o
 *.d
 *.crf
@@ -20,11 +18,17 @@ RTE/_*/
 *.__i
 *.htm
 *.bak
-*.uvguix.*
 # ===== CubeMX =====
 .mxproject
+# ===== 未纳入仓库的 CMSIS 附加库（本工程未引用）=====
+Drivers/CMSIS/Lib/
+Drivers/CMSIS/DSP/
+Drivers/CMSIS/NN/
+Drivers/CMSIS/RTOS/
+Drivers/CMSIS/RTOS2/
+Drivers/CMSIS/docs/
+Drivers/CMSIS/Core_A/
 # ===== IDE =====
 .vscode/
 .idea/
 *.log
-
