@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'clockconfig' 
- * Target:  'clockconfig' 
+ * Project: 'homework1.2' 
+ * Target:  'homework1.2' 
  */
 
 #ifndef RTE_COMPONENTS_H
