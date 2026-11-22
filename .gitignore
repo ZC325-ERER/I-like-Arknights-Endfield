@@ -1,5 +1,5 @@
 # ===== Keil MDK 编译产物 =====
-MDK-ARM/homework1.2/
+MDK-ARM/mydelay/
 MDK-ARM/DebugConfig/
 *.uvguix.*
 *.o

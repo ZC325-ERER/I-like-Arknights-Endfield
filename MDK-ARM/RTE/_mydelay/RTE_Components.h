@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'homework1.2' 
- * Target:  'homework1.2' 
+ * Project: 'mydelay' 
+ * Target:  'mydelay' 
  */
 
 #ifndef RTE_COMPONENTS_H
