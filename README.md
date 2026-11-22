@@ -12,5 +12,7 @@
 | 6 | 选做：双击 | × | 未做 |
 
 ## 备注
-1.第一次作业的第一项任务在main这个branch的Core/Src/main.c , 第95到101行代码
-2.第一次作业的第二项任务在task2这个branch的Core/Src/main.c 
+- 第一项任务在main这个branch的Core/Src/main.c , 第95到101行代码
+- 第二项任务在task2这个branch的Core/Src/main.c 
+- 第三项任务在task3
+- 第五项任务在task5
