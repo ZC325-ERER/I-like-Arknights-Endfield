@@ -1,7 +1,8 @@
-﻿# ===== Keil MDK 编译产物 =====
+﻿# Keil 编译产物
 MDK-ARM/button_debounce/
 MDK-ARM/DebugConfig/
-*.uvguix.*
+Objects/
+Listings/
 *.o
 *.d
 *.crf
@@ -18,17 +19,9 @@ MDK-ARM/DebugConfig/
 *.__i
 *.htm
 *.bak
-# ===== CubeMX =====
+*.uvguix.*
+# CubeMX / IDE
 .mxproject
-# ===== 未纳入仓库的 CMSIS 附加库（本工程未引用）=====
-Drivers/CMSIS/Lib/
-Drivers/CMSIS/DSP/
-Drivers/CMSIS/NN/
-Drivers/CMSIS/RTOS/
-Drivers/CMSIS/RTOS2/
-Drivers/CMSIS/docs/
-Drivers/CMSIS/Core_A/
-# ===== IDE =====
 .vscode/
 .idea/
 *.log
